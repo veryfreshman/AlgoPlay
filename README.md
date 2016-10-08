@@ -9,9 +9,10 @@ The world of computer programming algorithms may seem pretty complex. AlgoPlay m
     * More coming!
 * Adjust speed of the demonstration by clicking at the bottom left corner
 * Get comprehensive description of the way each algorithm works by pressing info button
+
 # Screenshots
 ![AlgoPlayScreenshot](Images/github_screens.jpg)
-# To-Do
+# To-do
 - [ ] Mitchell's best candidate algorithm
 - [ ] Lloyd's algorithm
 - [ ] Array shuffling
