@@ -14,4 +14,4 @@ The world of computer programming algorithms may seem pretty complex. AlgoPlay m
 # To-Do
 - [ ] Mitchell's best candidate algorithm
 - [ ] Lloyd's algorithm
-- [x] Array shuffling
+- [ ] Array shuffling
