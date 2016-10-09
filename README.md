@@ -14,6 +14,7 @@ The world of computer programming algorithms may seem pretty complex. AlgoPlay m
 ![AlgoPlayScreenshot](Images/github_screens.jpg)
 
 # Employed technologies
+* Swift, Core Graphics, Core Animation, UIKit
 * Minimum spanning tree
 * MinHeap Data Structure
 * QuadTree
