@@ -12,6 +12,14 @@ The world of computer programming algorithms may seem pretty complex. AlgoPlay m
 
 # Screenshots
 ![AlgoPlayScreenshot](Images/github_screens.jpg)
+
+# Employed technologies
+* Minimum spanning tree
+* MinHeap Data Structure
+* QuadTree
+* Poisson's Disc Distribution
+* Bridson's Algorithm for incremental Poisson's generation
+
 # To-do
 - [ ] Mitchell's best candidate algorithm
 - [ ] Lloyd's algorithm
