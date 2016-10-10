@@ -1,6 +1,7 @@
 ## AlgoPlay
 # Introduction
 The world of computer programming algorithms may seem pretty complex. AlgoPlay makes it much easier for you to understand the way this or that algorithm works by providing nice and colorful visual experience.
+
 <a href="https://itunes.apple.com/us/app/algoplay/id1163524925">Available on the Appstore</a>
 # Usage
 * Choose an algorithm you would like to watch
